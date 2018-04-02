@@ -1,8 +1,8 @@
 {
-  "name": "amazon-url-shortener",
+  "name": "webshop-url-shortener",
   "private": true,
   "version": "0.0.0",
-  "description": "Shorten Amazon product page's URLs.",
+  "description": "Shorten some webshops product page's URLs.",
   "scripts": {
     "start": "npm run dev:chrome",
     "build": "npm run build:chrome",

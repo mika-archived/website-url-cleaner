@@ -1,6 +1,6 @@
-# Amazon URL Shortener
+# Webshop URL Shortener
 
-Shorten Amazon product page's URLs.
+Shorten some webshops product page's URLs.
 
 ## Installation
 
