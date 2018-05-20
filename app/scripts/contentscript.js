@@ -1,7 +1,5 @@
 // Enable chromereload by uncommenting this line:
 // import 'chromereload/devonly'
-
-
 const hostname = location.host;
 
 const files = require.context("./sites", false, /\.js$/);
