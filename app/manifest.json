@@ -13,7 +13,8 @@
     {
       "matches": [
         "https://www.amazon.co.jp/*",
-        "https://www.animate-onlineshop.jp/*"
+        "https://www.animate-onlineshop.jp/*",
+        "https://www.nitori-net.jp/*"
       ],
       "js": [
         "scripts/contentscript.js"
@@ -23,6 +24,7 @@
   ],
   "permissions": [
     "https://www.amazon.co.jp/*",
-    "https://www.animate-onlineshop.jp/*"
+    "https://www.animate-onlineshop.jp/*",
+    "https://www.nitori-net.jp/*"
   ]
 }
