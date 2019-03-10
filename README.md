@@ -1,6 +1,6 @@
-# Webshop URL Shortener
+# Website URL Cleaner
 
-Shorten some webshops product page's URLs.
+Clean URLs such as Amazon.
 
 ## Installation
 

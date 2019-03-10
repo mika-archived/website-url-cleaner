@@ -1,8 +1,8 @@
 {
-  "name": "webshop-url-shortener",
+  "name": "website-url-cleaner",
   "private": true,
   "version": "0.0.0",
-  "description": "Shorten some webshops product page's URLs.",
+  "description": "Clean URLs such as Amazon.",
   "scripts": {
     "start": "npm run dev:chrome",
     "build": "npm run build:chrome",
